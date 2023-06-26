@@ -1,0 +1,782 @@
+{VERSION 6 0 "Windows 8" "6.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" 
+-1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 
+{CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "" -1 -1 "C
+ourier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printe
+d Output" -1 6 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3259" -1 206 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0
+ 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3258" -1 207 1 {CSTYLE "" -1 -1 
+"Times" 1 12 0 0 0 1 1 1 1 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Normal257" -1 208 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1
+ 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Help" -1 10
+ 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0
+ 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1
+ "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1 "Courier" 1 10 64 
+128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "N
+ormal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 
+1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Heading 3256" -1 209 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 
+2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkE
+rror" -1 210 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2
+ 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 
+{CSTYLE "" -1 -1 "Courier" 1 10 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0
+ 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Tim
+es" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2
+ 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1
+ 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0
+ 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 -1 
+"Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Heading 3" -1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1
+ 4 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 
+0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 211 1 {CSTYLE ""
+ -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2
+ 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Output" -1 12 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{CSTYLE "He
+lp Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 
+}{CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 0 0 0
+ 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0
+ 1 }{CSTYLE "2D Math Small" -1 7 "Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0
+ 1 }{CSTYLE "Output Labels" -1 29 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Maple Input Placeholder" -1 200 "Courier New" 1 12 200 0
+ 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Code" -1 201 "Courier New" 1 12 
+255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 202 "
+Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Tim
+es" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 
+"Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Ti
+mes" 1 12 255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Header and Footer" 
+-1 203 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" 
+-1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Labe
+l" -1 204 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "LaTeX" -1
+ 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hype
+rlink" -1 45 "Times" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Ato
+mic Variable" -1 205 "Times" 1 12 175 0 175 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "Help Fixed" -1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 
+}{CSTYLE "Annotation Text" -1 206 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0
+ 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0
+ 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2 
+2 2 0 0 0 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0 0 0 1 2 2 
+2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0
+ 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "Times"
+ 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times" 
+1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "Times" 1
+ 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "Time
+s" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 
+"Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 
+21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Refere
+nce" -1 207 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Iner
+t Output" -1 208 "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }
+{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Underlined Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 
+0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 
+2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1
+ }{CSTYLE "Text" -1 209 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Caption Text" -1 210 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1
+ }{PSTYLE "" -1 212 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 1 2 1 2 2 
+2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 211 "Times" 1 
+12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 212 "Times" 1 12 0 0 0 1
+ 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 213 1 {CSTYLE "" -1 -1 "Times" 1 
+12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE 
+"" -1 213 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 214 
+"Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 214 1 {CSTYLE 
+"" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0
+ 2 2 -1 1 }{PSTYLE "" -1 215 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1
+ 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 216 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 215 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 
+0 0 0 1 }{PSTYLE "" -1 217 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 218 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 216 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 
+0 0 0 1 }{CSTYLE "" -1 217 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{PSTYLE "" -1 219 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 
+1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 218 "Times" 1 12 
+255 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 219 "Times" 1 12 255 0 0 
+1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 220 1 {CSTYLE "" -1 -1 "Times" 1 
+12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE 
+"" -1 220 "Times" 1 12 255 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 
+221 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0
+ 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 221 "Times" 1 12 0 0 1 1 2 1 2 
+2 2 2 0 0 0 1 }{PSTYLE "" -1 222 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0
+ 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 
+222 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 223 "Times
+" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 224 "Times" 1 12 0 0
+ 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 223 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{CSTYLE "" -1 225 "Times" 1 12 0 0 1 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 226 "Times" 1 12 0 0 1 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 224 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 225 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" 
+-1 227 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 228 "Ti
+mes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 229 "Times" 1 12 
+0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{PSTYLE "" -1 226 1 {CSTYLE "" -1 -1 "Tim
+es" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{CSTYLE "" -1 230 "Times" 1 12 0 0 1 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE ""
+ -1 227 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 228 1 {CSTYLE "" -1 -1 "Tim
+es" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{CSTYLE "" -1 231 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE ""
+ -1 229 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 232 "Times" 1 12 0 0 0 1 2 
+1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 233 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 
+0 0 0 1 }{CSTYLE "" -1 234 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 235 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 236 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 237 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 230 1 {CSTYLE ""
+ -1 -1 "Times" 1 12 0 0 0 1 1 1 1 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "" -1 231 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 232 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 233 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 1 1 1 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "" 
+-1 234 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 235 1 {CSTYLE "" -1 -1 "Time
+s" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 236 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 1 2 2 2 
+1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 237 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 
+2 -1 1 }{PSTYLE "" -1 238 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 
+2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 239 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 1 2 2 2 1 0 0 1 }1 1 0 0 8 2
+ 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 238 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 
+0 0 0 1 }{CSTYLE "" -1 239 "Times" 1 12 255 0 0 1 2 1 2 2 2 2 0 0 0 1 
+}{PSTYLE "" -1 240 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 241 1 {CSTYLE ""
+ -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{CSTYLE "" -1 240 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 241 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 242 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 243 "T
+imes" 1 12 255 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 244 "Times" 1 
+12 255 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 242 1 {CSTYLE "" -1 -1
+ "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 
+1 }{CSTYLE "" -1 245 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE
+ "" -1 243 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1
+ }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 246 "Times" 1 12 0 0 0 1
+ 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 247 "Times" 1 12 0 0 1 1 2 1 2 2 2
+ 2 0 0 0 1 }{CSTYLE "" -1 248 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1
+ }{CSTYLE "" -1 249 "Times" 1 12 0 0 1 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE 
+"" -1 250 "Times" 1 12 0 0 1 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 251 
+"Times" 1 12 0 0 1 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 252 "Times" 1 
+12 0 0 1 1 2 1 2 2 2 2 0 0 0 1 }}
+{SECT 0 {SECT 0 {PARA 212 "" 0 "" {TEXT 209 33 "Section 1: Numerical \+
+Calculations" }}{EXCHG {PARA 0 "" 0 "" {TEXT 253 203 "In this section \+
+you will use Maple to do some standard numerical calculations. Maple's
+ ability to produce exact answers in addition to numerical approximati
+ons gives you more options in solving problems." }}{PARA 0 "" 0 "" 
+{TEXT 253 0 "" }}}{SECT 0 {PARA 4 "" 0 "" {TEXT 254 33 "Doing Exact Ar
+ithmetic with Maple" }}{EXCHG {PARA 209 "" 0 "" {TEXT 255 126 "Using M
+aple to do numerical computations is very straightforward. Just enter \+
+the numerical expression and end the line with a " }{TEXT 209 0 "" }
+{TEXT 209 0 "" }{TEXT 211 9 "semicolon" }{TEXT 255 11 ". Pressing " }
+{TEXT 212 7 "[Enter]" }{TEXT 255 97 " will then execute the line and t
+he result will be displayed in blue in the center of the screen." }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{SECT 1 {PARA 213 "" 0 "" {TEXT 209 
+9 "Example 1" }{TEXT 256 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 253 97 "A
+ simple calculation has been entered on the next line. Click anywhere \+
+in the red line and press " }{TEXT 213 7 "[Enter]" }{TEXT 253 1 "." }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 4 "2+4;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "12*34567890;" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 63 "Each \+
+red input line is \"live\" and can be modified at any time. " }}{PARA 
+0 "" 0 "" {TEXT 253 0 "" }}{PARA 0 "" 0 "" {TEXT 253 53 "Change the \"
+4\" in the line above to an \"8\" and press " }{TEXT 214 7 "[Enter]" }
+{TEXT 253 2 ". " }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 253 78 "Notice how the blue output is automatically updated to d
+isplay the new result." }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 214 "" 0 "" 
+{TEXT 209 9 "Example 2" }{TEXT 257 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT
+ 253 37 "For our next example let's calculate " }{XPPEDIT 18 0 "Typese
+tting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup
+(Typesetting:-mn(\"134\", mathvariant = \"normal\"), Typesetting:-mn(
+\"39\", mathvariant = \"normal\"), superscriptshift = \"0\")), Typeset
+ting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibG
+F'6%-I#miGF$6#Q!F'-F#6#-I%msupGF$6%-I#mnGF$6$Q$134F'/%,mathvariantGQ'n
+ormalF'-F56$Q#39F'F8/%1superscriptshiftGQ\"0F'F+" }{TEXT 253 3 ".  " }
+}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 7 "134^39;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 253 96 "Unlike your calculator, Maple giv
+es you the exact answer to this problem, all 83 digits worth!  " }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}}{SECT 1 {PARA 215 "" 0 "" {TEXT 209 9 "Example 3" }{TEXT 
+257 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 253 66 "Maple can calculate wi
+th fractions without converting to decimals:" }}{PARA 0 "" 0 "" {TEXT 
+253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "3/5 + 5/9 + 7/12
+;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 216
+ "" 0 "" {TEXT 209 9 "Example 4" }{TEXT 257 0 "" }}{EXCHG {PARA 0 "" 0
+ "" {TEXT 253 41 "To enter the square root of a number use " }{TEXT 
+215 4 "sqrt" }{TEXT 253 2 " :" }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "sqrt(24);" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 34 "No
+tice that Maple has simplified  " }{XPPEDIT 18 0 "Typesetting:-mrow(Ty
+pesetting:-msqrt(Typesetting:-mn(\"24\", mathvariant = \"normal\")));"
+ "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I&msqrtGF$6#
+-I#mnGF$6$Q#24F'/%,mathvariantGQ'normalF'" }{TEXT 253 126 " but has le
+ft the answer in exact form. In the next section you will learn how to
+ get a decimal approximation for this number." }}{PARA 0 "" 0 "" {TEXT
+ 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 
+{PARA 217 "" 0 "" {TEXT 209 9 "Example 5" }{TEXT 256 0 "" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 253 73 "Maple has all of the important mathemati
+cal constants built in. To enter " }{XPPEDIT 18 0 "Typesetting:-mrow(T
+ypesetting:-mi(\"\1700\", italic = \"false\", mathvariant = \"normal\"
+));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6
+%Q%&pi;F'/%'italicGQ&falseF'/%,mathvariantGQ'normalF'" }{TEXT 253 12 "
+  type  Pi. " }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}{PARA 0 "" 0 "" {TEXT
+ 253 65 "Notice that an asterisk * is required to indicate multiplicat
+ion." }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 9 "4*(3+Pi);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 77 "Again Maple carries out the
+ calculation but leaves the answer in exact form. " }}{PARA 0 "" 0 "" 
+{TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}
+{SECT 1 {PARA 218 "" 0 "" {TEXT 209 9 "Example 6" }{TEXT 257 0 "" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT 253 95 "Unlike your calculator, Maple giv
+es you the exact answer when applying trigonometric functions." }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 12 "sin(5*Pi/3);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "sec(Pi/4);" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 44 "
+To get the inverse sine of a number use the " }{TEXT 216 6 "arcsin" }
+{TEXT 253 10 " function:" }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "arcsin(-1);" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 46 "If you
+ ask Maple to calculate a value that is " }{TEXT 217 9 "undefined" }
+{TEXT 253 39 " it will respond with an error message:" }}{PARA 0 "" 0 
+"" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "tan(Pi/
+2);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 
+219 "" 0 "" {TEXT 209 9 "Example 7" }{TEXT 257 0 "" }}{EXCHG {PARA 0 "
+" 0 "" {TEXT 253 43 "To enter the natural exponential function  " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msup(Typesetting:-mo(\"&
+ExponentialE;\", mathvariant = \"normal\", fence = \"false\", separato
+r = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.1111111em\"), Typesetting:-mi(\"x\", italic = \"t
+rue\", mathvariant = \"italic\"), superscriptshift = \"0\"));" "-I%mro
+wG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%msupGF$6%-I#moGF$6
+-Q/&ExponentialE;F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separ
+atorGF7/%)stretchyGF7/%*symmetricGF7/%(largeopGF7/%.movablelimitsGF7/%
+'accentGF7/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.1111111emF'-I#miGF$6%Q\"xF'
+/%'italicGQ%trueF'/F3Q'italicF'/%1superscriptshiftGQ\"0F'" }{TEXT 253 
+19 "  in Maple, type:  " }{TEXT 218 6 "exp(x)" }{TEXT 253 1 "." }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 7 "exp(x);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 253 22 "And to get the number " }{XPPEDIT 18 0 "
+Typesetting:-mrow(Typesetting:-mo(\"&ExponentialE;\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.1111111em\")
+);" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#moGF$6-
+Q/&ExponentialE;F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separa
+torGF4/%)stretchyGF4/%*symmetricGF4/%(largeopGF4/%.movablelimitsGF4/%'
+accentGF4/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.1111111emF'" }{TEXT 253 18 "
+ by itself, type: " }{TEXT 219 6 "exp(1)" }{TEXT 253 1 "." }}{PARA 0 "
+" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "exp(
+1);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 
+220 "" 0 "" {TEXT 209 9 "Example 8" }{TEXT 257 0 "" }}{EXCHG {PARA 0 "
+" 0 "" {TEXT 253 37 "To enter the absolute value function " }{XPPEDIT 
+18 0 "Typesetting:-mrow(Typesetting:-mfenced(Typesetting:-mi(\"x\", it
+alic = \"true\", mathvariant = \"italic\"), mathvariant = \"normal\", \+
+Typesetting:-msemantics = \"abs\", open = \"&verbar;\", close = \"&ver
+bar;\", Typesetting:-msemantics = \"abs\"));" "-I%mrowG6#/I+modulename
+G6\"I,TypesettingGI(_syslibGF'6#-I(mfencedGF$6(-I#miGF$6%Q\"xF'/%'ital
+icGQ%trueF'/%,mathvariantGQ'italicF'/F6Q'normalF'/I+msemanticsGF$Q$abs
+F'/%%openGQ)&verbar;F'/%&closeGF?F:" }{TEXT 253 16 " in Maple type: " 
+}{TEXT 220 6 "abs(x)" }{TEXT 253 1 "." }}{PARA 0 "" 0 "" {TEXT 253 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "abs(x);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+253 30 "For example, this function at " }{XPPEDIT 18 0 "Typesetting:-m
+row(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"x\", it
+alic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"=\", mat
+hvariant = \"normal\", fence = \"false\", separator = \"false\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace
+ = \"0.2777778em\"), Typesetting:-mrow(Typesetting:-mo(\"&uminus0;\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"false\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rsp
+ace = \"0.2222222em\"), Typesetting:-mn(\"3\", mathvariant = \"normal
+\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+m
+odulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-F,6%Q\"xF
+'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q\"=F'/F8Q'norma
+lF'/%&fenceGQ&falseF'/%*separatorGFB/%)stretchyGFB/%*symmetricGFB/%(la
+rgeopGFB/%.movablelimitsGFB/%'accentGFB/%'lspaceGQ,0.2777778emF'/%'rsp
+aceGFQ-F#6$-F;6-Q*&uminus0;F'F>F@FCFEFGFIFKFM/FPQ,0.2222222emF'/FSFZ-I
+#mnGF$6$Q\"3F'F>F+F+" }{TEXT 253 7 " yields" }}{PARA 0 "" 0 "" {TEXT 
+253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "abs(-3);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"$" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 72 "Note that Ma
+ple gives the correct, exact answer for the following since " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mo(\"&Expone
+ntialE;\", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\"
+, rspace = \"0.1111111em\"), Typesetting:-mo(\"&minus;\", mathvariant \+
+= \"normal\", fence = \"false\", separator = \"false\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.22
+22222em\"), Typesetting:-mi(\"\1700\", italic = \"false\", mathvariant
+ = \"normal\")), Typesetting:-mo(\"<\", mathvariant = \"normal\", fenc
+e = \"false\", separator = \"false\", stretchy = \"false\", symmetric \+
+= \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typese
+tting:-mn(\"0\", mathvariant = \"normal\")), Typesetting:-mi(\"\"));" 
+"-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'
+-F#6&F+-F#6%-I#moGF$6-Q/&ExponentialE;F'/%,mathvariantGQ'normalF'/%&fe
+nceGQ&falseF'/%*separatorGF</%)stretchyGF</%*symmetricGF</%(largeopGF<
+/%.movablelimitsGF</%'accentGF</%'lspaceGQ&0.0emF'/%'rspaceGQ,0.111111
+1emF'-F46-Q(&minus;F'F7F:F=F?FAFCFEFG/FJQ,0.2222222emF'/FMFS-F,6%Q%&pi
+;F'/%'italicGF<F7-F46-Q\"<F'F7F:F=F?FAFCFEFG/FJQ,0.2777778emF'/FMFhn-I
+#mnGF$6$Q\"0F'F7F+" }{TEXT 253 1 "." }}{PARA 0 "" 0 "" {TEXT 253 0 "" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "abs(exp(1)-Pi);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 ",&-I$expG6$%*protectedGI(_syslibG6\"6#\"\"\"!
+\"\"I#PiGF&F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}
+{SECT 0 {PARA 221 "" 0 "" {TEXT 209 9 "Example 9" }{TEXT 257 0 "" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT 253 234 "Maple has many special purpose c
+ommands for working with numbers. You will learn these as you need the
+m in your math course. Here is one last example for now. If we have an
+ integer and want to factor it into primes we can use Maple's " }{TEXT
+ 221 7 "ifactor" }{TEXT 253 59 " command. Feel free to experiment by c
+hanging the number.  " }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "ifactor(31722722304);" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "*.-I!G6\"6#\"\"#\"#5-F$6#\"\"$\"\"\"-F$6#\"\"(F'-F
+$6#\"#8F'-F$6#\"#HF,-F$6#\"#VF," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 0 "" }}}}{SECT 0 {PARA 222 "" 0 "" {TEXT 209 10 "Example 10" }
+{TEXT 257 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 253 131 "There may be ti
+mes when you want to enter more than one command on a single line. Thi
+s is okay to do in Maple, just be sure to end " }{TEXT 222 4 "each" }
+{TEXT 253 92 " command with a semicolon. It also helps to put spaces b
+etween the commands. When you press " }{TEXT 223 7 "[Enter]" }{TEXT 
+253 100 " all of the expressions are executed and the results are list
+ed, in order, in a single output field." }}{PARA 0 "" 0 "" {TEXT 253 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "sin(Pi/3);   cos(Pi/
+3);   tan(Pi/3);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 253 79 "To display the commands in a sing
+le execute group but on separate lines, press " }{TEXT 224 17 "[Shift]
+ + [Enter]" }{TEXT 253 30 ". The result will be the same." }}{PARA 0 "
+" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "sin
+(Pi/3);\n" }{MPLTEXT 1 0 11 "cos(Pi/3);\n" }{MPLTEXT 1 0 21 "tan(Pi/3)
+;\nsec(Pi/3);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*$\"\"$#\"\"\"\"\"#F%
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "#\"\"\"\"\"#" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "*$\"\"$#\"\"\"\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"
+#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 223
+ "" 0 "" {TEXT 209 10 "Example 11" }{TEXT 257 0 "" }}{EXCHG {PARA 0 ""
+ 0 "" {TEXT 253 55 "To calculate and display a sequence of numbers use
+ the " }{TEXT 225 3 "seq" }{TEXT 253 73 " command. Here we calculate t
+he squares of the first 100 natural numbers." }}{PARA 0 "" 0 "" {TEXT 
+253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "seq(k^2,k=1..100
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6`q\"\"\"\"\"%\"\"*\"#;\"#D\"#O\"#
+\\\"#k\"#\")\"$+\"\"$@\"\"$W\"\"$p\"\"$'>\"$D#\"$c#\"$*G\"$C$\"$h$\"$+
+%\"$T%\"$%[\"$H&\"$w&\"$D'\"$w'\"$H(\"$%y\"$T)\"$+*\"$h*\"%C5\"%*3\"\"
+%c6\"%D7\"%'H\"\"%p8\"%W9\"%@:\"%+;\"%\"o\"\"%k<\"%\\=\"%O>\"%D?\"%;@
+\"%4A\"%/B\"%,C\"%+D\"%,E\"%/F\"%4G\"%;H\"%DI\"%OJ\"%\\K\"%kL\"%\"[$\"
+%+O\"%@P\"%WQ\"%pR\"%'4%\"%DU\"%cV\"%*[%\"%CY\"%hZ\"%+\\\"%T]\"%%=&\"%
+H`\"%wa\"%Dc\"%wd\"%Hf\"%%3'\"%Ti\"%+k\"%hl\"%Cn\"%*)o\"%cq\"%Ds\"%'R(
+\"%pv\"%Wx\"%@z\"%+\")\"%\"G)\"%k%)\"%\\')\"%O))\"%D!*\"%;#*\"%4%*\"%/
+'*\"%,)*\"&++\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}}
+{SECT 0 {PARA 4 "" 0 "evalf(  )" {TEXT 254 35 "Numerical Approximation
+s using the " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"eval
+f\", italic = \"true\", mathvariant = \"italic\"));" "-I%mrowG6#/I+mod
+ulenameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q&evalfF'/%'italicGQ%
+trueF'/%,mathvariantGQ'italicF'" }{TEXT 254 8 " command" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 253 248 "Recall that in the previous section we \+
+asked Maple to add three fractions and the result was also displayed a
+s a fraction. This sort of exact arithmetic is very useful but there a
+re times when we prefer an answer in decimal form. The Maple command "
+ }{TEXT 226 5 "evalf" }{TEXT 253 28 " performs this task for us. " }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{SECT 0 {PARA 224 "" 0 "" {TEXT 209 
+9 "Example 1" }{TEXT 256 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 253 42 "C
+ompare the results of the next two lines." }}{PARA 0 "" 0 "" {TEXT 
+253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "3/5+5/9+7/12;" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "#\"$8$\"$!=" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "evalf
+(3/5+5/9+7/12);" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+*)))))Q<!\"*" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 225 "" 0 
+"" {TEXT 209 9 "Example 2" }{TEXT 209 0 "" }}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 253 138 "Assigning a name to the result of a calculation makes i
+t easier to use that result in a subsequent calculation. To assign a n
+ame we use a " }{TEXT 227 5 "colon" }{TEXT 253 147 " followed by an eq
+ual sign ( i.e. name := result ;  ) . On the next line we have assigne
+d the letter k to the original output above. Then we apply " }{TEXT 
+228 5 "evalf" }{TEXT 253 7 " to k. " }}{PARA 0 "" 0 "" {TEXT 253 0 "" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "k := 3/5+5/9+7/12;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "#\"$8$\"$!=" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "evalf(k
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+*)))))Q<!\"*" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 229 20 "
+Important Maple Note" }{TEXT 253 94 ": Maple is case sensitive. So for
+ example Maple considers k and K to be different variables.. " }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 2 "k;" }}{PARA 11 "" 1 "" {XPPMATH 20 "#\"$8$\"$!=" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 2 "K;" }}{PARA 11 "" 1 "" {XPPMATH 20 "I\"KG6\"" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 54 "By \+
+the way, you can also use words as variable names. " }}{PARA 0 "" 0 ""
+ {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "joe := 2^
+5;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 10 "sqrt(joe);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 226 "" 0 "" {TEXT 209 9 "Example 3
+" }}{EXCHG {PARA 0 "" 0 "" {TEXT 253 123 "If we want fewer or more dig
+its of accuracy than the default number which is 10 digits we can add \+
+an extra argument to the " }{TEXT 230 5 "evalf" }{TEXT 253 25 " comman
+d as shown below. " }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0
+ "> " 0 "" {MPLTEXT 1 0 14 "w := 4*(3+Pi);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",&\"#7\"\"\"I#PiG%*protectedG\"\"%" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "e
+valf(w);" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+iqjcC!\")" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+253 24 "To see four digits of w:" }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "evalf(w,4);" }}{PARA 11 "" 1
+ "" {XPPMATH 20 "$\"%dC!\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 30 "To see forty-five digits \+
+of w:" }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "evalf(w,45);" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"Nwn)
+yO:,=J`t0&Q&H<fVhqjcC!#V" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}}{SECT 0 {PARA 227 "" 0 "" {TEXT 209 9 "Example 4" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 253 129 "If you enter numbers with a decimal poi
+nt Maple automatically gives decimal results. Compare the results of t
+he two lines below. " }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "sqrt(34);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "*$\"#M#\"\"\"\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "sqrt(34.0);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "$\"+&*=&4$e!\"*" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 24 "Here is
+ another example:" }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 6 "4-1/3;" }}{PARA 11 "" 1 "" {XPPMATH 20 "#\"#
+6\"\"$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 8 "4.0-1/3;" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+$\"+nmmmO!\"*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}
+{SECT 0 {PARA 228 "" 0 "" {TEXT 258 0 "" }{TEXT 209 9 "Example 5" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT 253 17 "We can apply the " }{TEXT 231 5 "
+evalf" }{TEXT 253 164 " command to a sequence of numbers. Below we fir
+st generate the exact square roots of  the first 10 natural numbers, t
+hen apply evalf to get decimal approximations. " }}{PARA 0 "" 0 "" 
+{TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "result := \+
+seq(sqrt(k),k=1..10);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6,\"\"\"*$\"\"#
+#F#F%*$\"\"$F&F%*$\"\"&F&*$\"\"'F&*$\"\"(F&,$F$F%F(*$\"#5F&" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 14 "evalf(result);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6,$
+\"\"\"\"\"!$\"+iN@99!\"*$\"+330K<F($\"\"#F%$\"+xz1OAF($\"+V(*[\\CF($\"
++68vXEF($\"+CrUGGF($\"\"$F%$\"+gwFiJF(" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 229 "" 0 "" {TEXT 209 64 "Maple Sh
+ortcut: Quick reference to the last chronological output" }{TEXT 257 
+0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 253 189 "There will be many times \+
+when using Maple that you will string together a sequence of computati
+ons. Rather than giving a name to each result as you go along, you can
+ use the percent sign ( " }{TEXT 232 1 "%" }{TEXT 253 19 " ) to refer \+
+to the " }{TEXT 233 16 "chronologically " }{TEXT 234 34 "last expressi
+on computed by Maple." }{TEXT 253 97 "   Note, however, that this devi
+ce can lead to great confusion, and is not generally recommended." }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}{PARA 0 "" 0 "" {TEXT 253 40 "Here ar
+e some examples of how it works. " }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "3/5+5/9+7/12;" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "#\"$8$\"$!=" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 9 "evalf(%);" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+*)))))Q<!\"*" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 3 "Pi;" }}{PARA 11 "" 1 "" {XPPMATH 20 "I#PiG%*protecte
+dG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "evalf(%);" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "$\"+aEfTJ!\"*" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 4 "%+5;" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+aEfT\")!\"*"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT 253 39 "For more on using the ditto symbol see " }{TEXT 235 
+12 "Exercise 1.4" }{TEXT 253 9 "  below. " }}{PARA 0 "" 0 "" {TEXT 
+253 0 "" }}{PARA 0 "" 0 "" {TEXT 236 8 "Warning:" }{TEXT 253 8 " Use o
+f " }{TEXT 237 1 "%" }{TEXT 253 80 " should be avoided as much as poss
+ible, as it may make the worksheet unreadable." }}{PARA 0 "" 0 "" 
+{TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}
+{SECT 0 {PARA 230 "" 0 "" {TEXT 209 12 "Exercise 1.1" }}{EXCHG {PARA 0
+ "" 0 "" {TEXT 209 35 "Use Maple to calculate the number  " }{XPPEDIT 
+18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Types
+etting:-msup(Typesetting:-mn(\"37\", mathvariant = \"normal\"), Typese
+tting:-mn(\"43\", mathvariant = \"normal\"), superscriptshift = \"0\")
+), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingG
+I(_syslibGF'6%-I#miGF$6#Q!F'-F#6#-I%msupGF$6%-I#mnGF$6$Q#37F'/%,mathva
+riantGQ'normalF'-F56$Q#43F'F8/%1superscriptshiftGQ\"0F'F+" }{TEXT 209 
+2 " ." }{TEXT 253 0 "" }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{SECT 0 
+{PARA 231 "" 0 "" {TEXT 209 21 "Student Workspace 1.1" }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 6 "37^43;" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"
+_o`9LWHELk31&4WLJQl\\(ei*Q&H)4/1\")f1&)e\"3F" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}
+}}{SECT 0 {PARA 232 "" 0 "" {TEXT 209 10 "Answer 1.1" }}{EXCHG {PARA 0
+ "> " 0 "" {MPLTEXT 1 0 6 "37^43;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}}}{SECT 0 {PARA 233 "" 0 "" {TEXT 209 12 "Exercis
+e 1.2" }}{EXCHG {PARA 0 "" 0 "" {TEXT 209 10 "Calculate " }{XPPEDIT 18
+ 0 "Typesetting:-mrow(Typesetting:-msqrt(Typesetting:-mn(\"34\", mathv
+ariant = \"normal\")));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_
+syslibGF'6#-I&msqrtGF$6#-I#mnGF$6$Q#34F'/%,mathvariantGQ'normalF'" }
+{TEXT 209 16 " to 18 digits.  " }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}
+{SECT 0 {PARA 234 "" 0 "" {TEXT 209 21 "Student Workspace 1.2" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "a:= sqrt(34);" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 "*$\"#M#\"\"\"\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "evalf(a,18);" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"3Z+`
+%[*=&4$e!#<" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 0
+ {PARA 235 "" 0 "" {TEXT 209 10 "Answer 1.2" }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 14 "m := sqrt(34);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "evalf(m
+,18);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}}{SECT 0 
+{PARA 236 "" 0 "" {TEXT 209 12 "Exercise 1.3" }}{EXCHG {PARA 0 "" 0 ""
+ {TEXT 209 54 "Find a numerical approximation for the expression :   "
+ }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mfrac(Typesetting:-mro
+w(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mn(\"3\", math
+variant = \"normal\"), Typesetting:-mo(\"+\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"false\", stretchy = \"false\", symm
+etric = \"false\", largeop = \"false\", movablelimits = \"false\", acc
+ent = \"false\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), \+
+Typesetting:-mi(\"\1700\", italic = \"false\", mathvariant = \"normal
+\")), Typesetting:-mi(\"\")), Typesetting:-mrow(Typesetting:-mi(\"\"),
+ Typesetting:-mrow(Typesetting:-mn(\"7\", mathvariant = \"normal\"), T
+ypesetting:-mo(\"&minus;\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-msqr
+t(Typesetting:-mn(\"13\", mathvariant = \"normal\"))), Typesetting:-mi
+(\"\")), linethickness = \"1\", denomalign = \"center\", numalign = \"
+center\", bevelled = \"false\"));" "-I%mrowG6#/I+modulenameG6\"I,Types
+ettingGI(_syslibGF'6#-I&mfracGF$6(-F#6%-I#miGF$6#Q!F'-F#6%-I#mnGF$6$Q
+\"3F'/%,mathvariantGQ'normalF'-I#moGF$6-Q\"+F'F:/%&fenceGQ&falseF'/%*s
+eparatorGFC/%)stretchyGFC/%*symmetricGFC/%(largeopGFC/%.movablelimitsG
+FC/%'accentGFC/%'lspaceGQ,0.2222222emF'/%'rspaceGFR-F16%Q%&pi;F'/%'ita
+licGFCF:F0-F#6%F0-F#6%-F76$Q\"7F'F:-F>6-Q(&minus;F'F:FAFDFFFHFJFLFNFPF
+S-I&msqrtGF$6#-F76$Q#13F'F:F0/%.linethicknessGQ\"1F'/%+denomalignGQ'ce
+nterF'/%)numalignGFio/%)bevelledGFC" }{TEXT 253 0 "" }}{PARA 0 "" 0 ""
+ {TEXT 253 0 "" }}}{SECT 0 {PARA 237 "" 0 "" {TEXT 209 21 "Student Wor
+kspace 1.3" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "evalf((3+Pi)/(
+7-sqrt(13)));" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+$)[I4=!\"*" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 238 "" 0 "" {TEXT 209 10 "Answer \+
+1.3" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "answer := (3+Pi)/(7-s
+qrt(13));" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&,&\"\"$\"\"\"I#PiG%*prote
+ctedGF%F%,&\"\"(F%*$\"#8#F%\"\"#!\"\"F." }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "evalf(a
+nswer);" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+$)[I4=!\"*" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}}{SECT 0 {PARA 239 "" 0 "" 
+{TEXT 209 12 "Exercise 1.4" }}{EXCHG {PARA 0 "" 0 "" {TEXT 253 20 "The
+ percent sign  ( " }{TEXT 238 1 "%" }{TEXT 253 80 ")  is a handy short
+cut but it can occasionally lead to some unexpected results. " }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}{PARA 0 "" 0 "" {TEXT 253 20 "Here is
+ an example. " }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 253 96 "First execute each of the next three lines. You should b
+e able to predict the result in advance." }}{PARA 0 "" 0 "" {TEXT 253 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "4+Pi;" }}{PARA 11 "" 
+1 "" {XPPMATH 20 ",&\"\"%\"\"\"I#PiG%*protectedGF$" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+9 "evalf(%);" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+aEfTr!\"*" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 5 "%+10;" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+l#fTr#!\")
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0
+ "" {TEXT 253 48 "Now go back and re-execute the last line (i.e., " }
+{TEXT 239 5 "%+10;" }{TEXT 253 37 "). Note that the output changes fro
+m " }{XPPEDIT 20 0 "Typesetting:-mrow(Typesetting:-mn(\"17.14159265\",
+ mathvariant = \"normal\"));" "-I%mrowG6#/I+modulenameG6\"I,Typesettin
+gGI(_syslibGF'6#-I#mnGF$6$Q,17.14159265F'/%,mathvariantGQ'normalF'" }
+{TEXT 253 4 " to " }{XPPEDIT 20 0 "Typesetting:-mrow(Typesetting:-mn(
+\"27.14159265\", mathvariant = \"normal\"));" "-I%mrowG6#/I+modulename
+G6\"I,TypesettingGI(_syslibGF'6#-I#mnGF$6$Q,27.14159265F'/%,mathvarian
+tGQ'normalF'" }}{PARA 0 "" 0 "" {TEXT 253 20 "Can you explain why?" }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{SECT 0 {PARA 240 "" 0 "" {TEXT 209 
+21 "Student Workspace 1.4" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 241 "" 0 "" {TEXT 209 10 "An
+swer 1.4" }}{EXCHG {PARA 0 "" 0 "" {TEXT 253 18 "The ditto symbol (" }
+{TEXT 240 1 "%" }{TEXT 253 18 ")  represents the " }{TEXT 241 47 "chro
+nologically last number calculated by Maple" }{TEXT 253 45 ". So after
+ you executed the first three lines" }}{PARA 0 "" 0 "" {TEXT 242 1 "%"
+ }{TEXT 253 3 " = " }{XPPEDIT 20 0 "Typesetting:-mrow(Typesetting:-mn(
+\"17.14159265\", mathvariant = \"normal\"));" "-I%mrowG6#/I+modulename
+G6\"I,TypesettingGI(_syslibGF'6#-I#mnGF$6$Q,17.14159265F'/%,mathvarian
+tGQ'normalF'" }{TEXT 253 41 ".  The second time you executed the line 
+" }{TEXT 243 5 "%+10;" }{TEXT 253 19 " Maple added 10 to " }{XPPEDIT 
+20 0 "Typesetting:-mrow(Typesetting:-mn(\"17.14159265\", mathvariant =
+ \"normal\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'
+6#-I#mnGF$6$Q,17.14159265F'/%,mathvariantGQ'normalF'" }{TEXT 253 1 "."
+ }}{PARA 0 "" 0 "" {TEXT 253 60 "To avoid this sort of confusion assig
+n names to each output:" }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "a := 4+Pi;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",&\"\"%\"\"\"I#PiG%*protectedGF$" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "b \+
+:= evalf(a);" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+aEfTr!\"*" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 5 "b+10;" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+l#fTr\"!\"
+)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}}}{SECT 0 {PARA 4
+ "" 0 "" {TEXT 254 18 "Clearing Variables" }}{SECT 0 {PARA 5 "" 0 "" 
+{TEXT 257 42 "Assigning new values to existing variables" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 253 194 "Once you have defined a variable, Maple
+ will remember its value during your entire working session.  If you w
+ant to overwrite the variable with a new value, you can simply make a \+
+new assignment." }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 253 70 "For example each assignment below redefines the value of
+ the variable " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"h
+\", italic = \"true\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modu
+lenameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q\"hF'/%'italicGQ%true
+F'/%,mathvariantGQ'italicF'" }{TEXT 253 89 ". (Note: to check the curr
+ent value for a variable just type it followed by a semicolon.)" }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 2 "h;" }}{PARA 11 "" 1 "" {XPPMATH 20 "I\"hG6\"" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 7 "Assi
+gn " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"h\", italic =
+ \"true\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,
+TypesettingGI(_syslibGF'6#-I#miGF$6%Q\"hF'/%'italicGQ%trueF'/%,mathvar
+iantGQ'italicF'" }{TEXT 253 14 " the value 56." }}{PARA 0 "" 0 "" 
+{TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "h := 56;" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "\"#c" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 20 "Notice the v
+alue of " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"h\", ita
+lic = \"true\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG
+6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q\"hF'/%'italicGQ%trueF'/%,ma
+thvariantGQ'italicF'" }{TEXT 253 27 ", 56, after the assignment." }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 2 "h;" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"#c" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 13 "To over
+write " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"h\", itali
+c = \"true\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6
+\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q\"hF'/%'italicGQ%trueF'/%,mat
+hvariantGQ'italicF'" }{TEXT 253 47 " with a new value, make a new assi
+gnment using " }{TEXT 244 2 ":=" }{TEXT 253 1 "." }}{PARA 0 "" 0 "" 
+{TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "h := sqrt(
+Pi);" }}{PARA 11 "" 1 "" {XPPMATH 20 "*$I#PiG%*protectedG#\"\"\"\"\"#"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT 253 14 "You'll notice " }{XPPEDIT 18 0 "Typesetting:-mrow(Typ
+esetting:-mi(\"h\", italic = \"true\", mathvariant = \"italic\"));" "-
+I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q\"hF'
+/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }{TEXT 253 36 " now has t
+he new value you assigned." }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 2 "h;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "*$I#PiG%*protectedG#\"\"\"\"\"#" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 242 "" 0 "" {TEXT 209 38 "Clea
+ring one variables at a time: the " }{TEXT 209 8 "unassign" }{TEXT 
+209 8 " command" }{TEXT 257 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 253 
+100 "Sometimes you will want to \"clear\" a variable in memory so that
+ you can use it in a new situation.  " }}{PARA 0 "" 0 "" {TEXT 253 36 
+"Here is an example. First we assign " }{XPPEDIT 18 0 "Typesetting:-mr
+ow(Typesetting:-mi(\"x\", italic = \"true\", mathvariant = \"italic\")
+);" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%
+Q\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }{TEXT 253 14 " the
+ value 65." }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 8 "x := 65;" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"#l" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 253 91 "Now assume that we start a new problem and want to enter
+ the general algebraic expression  " }{XPPEDIT 18 0 "Typesetting:-mrow
+(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Types
+etting:-mrow(Typesetting:-msup(Typesetting:-mi(\"x\", italic = \"true
+\", mathvariant = \"italic\"), Typesetting:-mn(\"2\", mathvariant = \"
+normal\"), superscriptshift = \"0\")), Typesetting:-mo(\"&minus;\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"false\", stre
+tchy = \"false\", symmetric = \"false\", largeop = \"false\", movablel
+imits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspac
+e = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-mn(\"4\", mathvar
+iant = \"normal\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant \+
+= \"normal\", fence = \"false\", separator = \"false\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), \+
+Typesetting:-mi(\"x\", italic = \"true\", mathvariant = \"italic\")), \+
+Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", se
+parator = \"false\", stretchy = \"false\", symmetric = \"false\", larg
+eop = \"false\", movablelimits = \"false\", accent = \"false\", lspace
+ = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mn(\"7\", \+
+mathvariant = \"normal\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+mod
+ulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6(F+-F#6#-I%ms
+upGF$6%-F,6%Q\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#mnGF$6
+$Q\"2F'/F=Q'normalF'/%1superscriptshiftGQ\"0F'-I#moGF$6-Q(&minus;F'FC/
+%&fenceGQ&falseF'/%*separatorGFN/%)stretchyGFN/%*symmetricGFN/%(largeo
+pGFN/%.movablelimitsGFN/%'accentGFN/%'lspaceGQ,0.2222222emF'/%'rspaceG
+Fgn-F#6%-F@6$Q\"4F'FC-FI6-Q1&InvisibleTimes;F'FCFLFOFQFSFUFWFY/FfnQ&0.
+0emF'/FinFcoF6-FI6-Q\"+F'FCFLFOFQFSFUFWFYFenFhn-F@6$Q\"7F'FCF+" }{TEXT
+ 253 105 " and assign it the name w. If we just enter this, Maple auto
+matically substitutes the previous value for " }{XPPEDIT 18 0 "Typeset
+ting:-mrow(Typesetting:-mi(\"x\", italic = \"true\", mathvariant = \"i
+talic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I
+#miGF$6%Q\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }{TEXT 253 
+2 ". " }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 15 "w := x^2-4*x+7;" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"%s
+R" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT 253 126 "In order to get x to be a general variable again w
+e must first \"clear\" (i.e. erase from Maple's memory) our earlier va
+lue for " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"x\", ita
+lic = \"true\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG
+6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q\"xF'/%'italicGQ%trueF'/%,ma
+thvariantGQ'italicF'" }{TEXT 253 32 ". This is accomplished by using "
+ }{TEXT 245 8 "unassign" }{TEXT 253 47 " command.  Note that we use si
+ngle quotes here." }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 253 49 "Execute the next two lines to see how this works." }}
+{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 14 "unassign('x');" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "w :
+= x^2-4*x+7;" }}{PARA 11 "" 1 "" {XPPMATH 20 ",(*$I\"xG6\"\"\"#\"\"\"F
+$!\"%\"\"(F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 
+0 {PARA 243 "" 0 "" {TEXT 246 36 "Clearing all variables at once: the 
+" }{TEXT 247 7 "restart" }{TEXT 248 8 " command" }{TEXT 256 0 "" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT 253 4 "The " }{TEXT 249 7 "restart" }
+{TEXT 253 176 " command will clear Maple's memory of all definitions t
+hat you have made. It is like starting a new Maple session. If you are
+ starting a completely new problem you can use the " }{TEXT 250 7 "res
+tart" }{TEXT 253 155 " command to guarantee that there are no leftover
+ definitions from your earlier work.  Before you execute the second li
+ne below, quickly predict the output." }}{PARA 0 "" 0 "" {TEXT 253 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "p := 4;" }}{PARA 11 "" 1
+ "" {XPPMATH 20 "\"\"%" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "p;
+  \n" }{MPLTEXT 1 0 5 "x;  \n" }{MPLTEXT 1 0 2 "h;" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "\"\"%" }}{PARA 11 "" 1 "" {XPPMATH 20 "I\"xG6\"" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "*$I#PiG%*protectedG#\"\"\"\"\"#" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 253 41 "You probably remembered that p was 4 and " }{XPPEDIT 18 
+0 "Typesetting:-mrow(Typesetting:-mi(\"x\", italic = \"true\", mathvar
+iant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sys
+libGF'6#-I#miGF$6%Q\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }
+{TEXT 253 40 " had been reassigned to be the variable " }{XPPEDIT 18 0
+ "Typesetting:-mrow(Typesetting:-mi(\"x\", italic = \"true\", mathvari
+ant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sysl
+ibGF'6#-I#miGF$6%Q\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }
+{TEXT 253 39 ", but you may not have remembered that " }{XPPEDIT 18 0 
+"Typesetting:-mrow(Typesetting:-mi(\"h\", italic = \"true\", mathvaria
+nt = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sysli
+bGF'6#-I#miGF$6%Q\"hF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }
+{TEXT 253 24 " was assigned the value " }{XPPEDIT 18 0 "Typesetting:-m
+row(Typesetting:-msqrt(Typesetting:-mi(\"\1700\", italic = \"false\", \+
+mathvariant = \"normal\")));" "-I%mrowG6#/I+modulenameG6\"I,Typesettin
+gGI(_syslibGF'6#-I&msqrtGF$6#-I#miGF$6%Q%&pi;F'/%'italicGQ&falseF'/%,m
+athvariantGQ'normalF'" }{TEXT 253 38 ".  That's why it's a good idea t
+o use " }{TEXT 251 7 "restart" }{TEXT 253 127 " to remove all definiti
+ons at once.  (As you work through this tutorial you will notice that \+
+we start most new sections with a " }{TEXT 252 7 "restart" }{TEXT 253 
+11 " command.) " }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 253 34 "Now check the values
+ of variables." }}{PARA 0 "" 0 "" {TEXT 253 0 "" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 5 "p;  \n" }{MPLTEXT 1 0 5 "x;  \n" }{MPLTEXT 1 0 
+2 "h;" }}{PARA 11 "" 1 "" {XPPMATH 20 "I\"pG6\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "I\"xG6\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "I\"hG6\"" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }

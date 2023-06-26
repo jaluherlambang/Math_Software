@@ -1,0 +1,806 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 256 "" 0 1 0 0 0 1 1 2 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+257 "" 1 12 0 0 0 0 1 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 258 "" 1 12 0 
+0 0 0 1 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 259 "" 1 12 0 0 0 0 1 0 1 0 
+0 0 0 0 0 1 }{CSTYLE "" -1 260 "" 1 12 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 261 "" 1 12 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+262 "" 1 12 0 0 0 0 1 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 263 "" 1 12 0 
+0 0 0 0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 264 "" 1 12 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 }{CSTYLE "" -1 265 "" 1 12 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 266 "" 1 12 0 0 0 0 1 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+267 "" 1 12 0 0 0 0 1 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 268 "" 1 12 0 
+0 0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 269 "" 0 1 0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 }{CSTYLE "" -1 270 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 271 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+272 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 273 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 274 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 275 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 276 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+277 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 278 "" 0 1 0 0 
+255 1 0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 279 "" 0 1 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 }{CSTYLE "" -1 280 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 281 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+282 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 283 "" 0 1 255 
+0 0 1 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 284 "" 0 1 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 }{CSTYLE "" -1 285 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 286 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+287 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 288 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 289 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 290 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 291 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+292 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 293 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 294 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 295 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 296 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+297 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 298 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 299 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 300 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 301 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+302 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 303 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 304 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 305 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 306 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+307 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 308 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 309 "" 0 1 0 0 0 0 0 0 1 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 310 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 311 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+312 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 313 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 314 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 315 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 316 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+317 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 318 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 319 "" 0 1 0 0 0 0 1 0 1 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 320 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 321 "" 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+322 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 323 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 324 "" 0 1 0 0 0 0 0 0 1 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 325 "" 1 12 0 0 0 0 1 0 1 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 326 "" 1 12 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+327 "" 1 12 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 328 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 329 "" 0 1 0 0 0 0 0 0 1 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 330 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 331 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+332 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 333 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 334 "" 0 1 0 0 0 0 0 0 1 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 335 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 336 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+337 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 338 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 339 "" 0 1 0 0 0 0 0 0 1 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 340 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 341 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+342 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 343 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 344 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 345 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 346 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+347 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 348 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 349 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 350 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 351 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+352 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 353 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 1 }{CSTYLE "" -1 354 "" 0 1 0 0 255 1 0 0 0 0 0 
+0 0 0 0 1 }{CSTYLE "" -1 355 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 356 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+357 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 358 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 359 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 360 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 361 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+362 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 363 "" 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 364 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 365 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 366 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+367 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 368 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 369 "" 0 1 0 0 0 0 1 1 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 370 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 371 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+372 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 373 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 374 "" 0 1 0 0 0 1 0 0 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 375 "" 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 376 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+377 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 378 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 379 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 380 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 381 "" 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+382 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 383 "" 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 384 "" 0 1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 385 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 386 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+387 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 }{PSTYLE "Normal" -1 0 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 1 }1 1 0 0 0 
+0 1 0 1 0 2 2 0 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "Times
+" 1 14 0 0 0 1 2 1 2 2 2 2 1 1 1 1 }1 1 0 0 8 2 1 0 1 0 2 2 0 1 }
+{PSTYLE "Heading 3" -1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 
+2 2 2 2 1 1 1 1 }1 1 0 0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Heading 4" -1 
+20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 1 1 1 }1 1 0 
+0 0 0 1 0 1 0 2 2 0 1 }{PSTYLE "Heading 1" -1 256 1 {CSTYLE "" -1 -1 "
+Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 1 1 1 }1 1 0 0 6 6 1 0 1 0 1 2 0 1 }
+{PSTYLE "" 4 257 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 
+0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {SECT 1 {PARA 256 "" 0 "" {TEXT 256 28 "Section 4: Solving Equ
+ations" }{TEXT -1 1 " " }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 52 "In this \+
+section you will learn how to apply Maple's " }{TEXT 356 5 "solve" }
+{TEXT -1 21 " command to find the " }{TEXT 353 5 "exact" }{TEXT -1 
+197 " solutions of equations (when this is possible). You may recall f
+rom Precalculus that we are not able in many cases to find exact solut
+ions to equations and so we rely on numerical solvers to find " }
+{TEXT 355 11 "approximate" }{TEXT -1 55 " solutions. Later in this sec
+tion you will use Maple's " }{TEXT 357 6 "fsolve" }{TEXT 354 1 " " }
+{TEXT -1 121 "command to find decimal approximations for solutions. Th
+e solution to linear systems of equations will also be discussed." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 8 "restart:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "with(plots
+):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{SECT 1 {PARA 4 "
+" 0 "" {TEXT -1 41 "Entering and Manipulating Equations: The " }{TEXT 
+269 3 "lhs" }{TEXT -1 5 " and " }{TEXT 270 3 "rhs" }{TEXT -1 9 " comma
+nds" }}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 9 "Example 1" }}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 90 "Recall that we can give a name to an entire equ
+ation just as we have done for expressions." }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 39 "On the next line we enter the e
+quation " }{XPPEDIT 18 0 "x^3-5*x^2+23=2*x^2+4*x-8 " "6#/,(*$%\"xG\"\"
+$\"\"\"*&\"\"&F(*$F&\"\"#F(!\"\"\"#BF(,(*&F,F(*$F&F,F(F(*&\"\"%F(F&F(F
+(\"\")F-" }{TEXT -1 31 "  and give it the name \"eqn1\" ." }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "eqn1
+ := x^3-5*x^2+23=2*x^2+4*x-8;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 9 "Example 2" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 79 "We can isolate the left-hand and right-ha
+nd sides of the equation by using the " }{TEXT 274 3 "lhs" }{TEXT -1 
+5 " and " }{TEXT 275 3 "rhs" }{TEXT -1 11 " commands. " }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "lhs(eq
+n1);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 10 "rhs(eqn1);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 9 "Example 3" }
+}{EXCHG {PARA 0 "" 0 "" {TEXT -1 8 "Use the " }{TEXT 276 3 "lhs" }
+{TEXT -1 5 " and " }{TEXT 277 3 "rhs" }{TEXT -1 144 " commands to find
+ an equation that is equivalent to the original equation eqn1 but has \+
+zero on the right-hand side. Label the new equation eqn2." }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "eqn2
+ := lhs(eqn1)-rhs(eqn1)=0;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+0 "" }}}}}{SECT 1 {PARA 4 "" 0 "solve(  )" {TEXT -1 29 "Finding Exact \+
+Solutions: The " }{TEXT 271 5 "solve" }{TEXT -1 8 " command" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 18 "We first consider " }{TEXT 333 10 "polyno
+mial" }{TEXT -1 49 " equations. Algorithms exist for calculating the \+
+" }{TEXT 334 5 "exact" }{TEXT -1 15 " solutions for " }{TEXT 335 10 "p
+olynomial" }{TEXT -1 17 " equations up to " }{TEXT 336 8 "degree 4" }
+{TEXT -1 10 ". Maple's " }{TEXT 337 5 "solve" }{TEXT -1 38 " command i
+mplements these algorithms. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{SECT 1 {PARA 5 "" 0 "" {TEXT -1 9 "Example 1" }}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 56 "To find the exact solutions to the polynomial equation \+
+ " }{XPPEDIT 18 0 "3*x^3-4*x^2-43*x+84=0" "6#/,**&\"\"$\"\"\"*$%\"xGF&
+F'F'*&\"\"%F'*$F)\"\"#F'!\"\"*&\"#VF'F)F'F.\"#%)F'\"\"!" }{TEXT -1 9 "
+ use the " }{TEXT 279 5 "solve" }{TEXT 278 1 " " }{TEXT -1 10 "command
+.  " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 114 "N
+ote that the second argument of the command tells Maple that x is the \+
+unknown variable that we are solving for.  " }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "solve(3*x^3-4*x^2
+-43*x+84=0,x);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 66 "Here Maple has found all three sol
+utions and listed them for you. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "
+" {TEXT -1 9 "Example 2" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 110 "Someti
+mes you will want to select one solution from the list of solutions an
+d use it in another computation.  " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 62 "You can do this by first assigning a name
+ (we use the letter N" }{TEXT 280 1 " " }{TEXT -1 35 "in this case) to
+ the output of the " }{TEXT 281 5 "solve" }{TEXT -1 10 " command. " }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 28 "N := solve(x^2-5*x+3=0,x);  " }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 5 "Then " }{TEXT 
+374 4 "N[1]" }{TEXT -1 49 " is the first number in the expression sequ
+ence, " }{TEXT 375 4 "N[2]" }{TEXT -1 59 " is the second number and so
+ on.  Note the square brackets." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "N[1];" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 222 "The o
+rder of the solutions in such a sequence is not necessarily unique.  I
+t might change if the command is re-executed.  Hence, it is not a good
+ strategy to reference solutions by their position in the sequence out
+put by " }{TEXT 358 5 "solve" }{TEXT -1 113 ".  A more effective strat
+egy will be demonstrated in the section \"Solving a Linear System of E
+quations Using the " }{TEXT 359 5 "solve" }{TEXT -1 10 " Command.\"" }
+}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 9 "Example 3" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 22 "When working with the " }{TEXT 282 5 "sol
+ve" }{TEXT -1 75 " command it is often convenient to begin by giving a
+ name to the equation. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 13 "Note we use  " }{TEXT 283 2 ":=" }{TEXT -1 32 "  to \+
+assign the name and  just \"" }{TEXT 284 1 "=" }{TEXT -1 26 "\" for th
+e equation itself." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 30 "eqn1 := 7*x^3-11*x^2-27*x-9=0;" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 36 "Next we solve the equation using the" }{TEXT 285 6 " solve" }
+{TEXT -1 44 " command assigning the name H to the output." }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "H :=
+ solve(eqn1,x);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 104 "For practice let's check that eac
+h of these values satisfies the equation. This is easy to do using the
+ " }{TEXT 286 4 "eval" }{TEXT -1 9 " command." }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 56 "eval(eqn1,x
+=H[1]);\neval(eqn1,x=H[2]);\neval(eqn1,x=H[3]);" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 1 " " }
+{TEXT 287 8 "Warning:" }{TEXT -1 33 " the solutions obtained from the \+
+" }{TEXT 288 5 "solve" }{TEXT -1 150 " command may not be in a unique \+
+order.  A more effective strategy will be demonstrated in the section \+
+\"Solving a Linear System of Equations Using the " }{TEXT 360 5 "solve
+" }{TEXT -1 10 " Command.\"" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "
+" {TEXT -1 9 "Example 4" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 114 "Someti
+mes the \"exact\" solutions are too cumbersome to be of much use. In t
+he next two lines we solve the equation " }{XPPEDIT 18 0 "x^3-34*x^2+4
+=0" "6#/,(*$%\"xG\"\"$\"\"\"*&\"#MF(*$F&\"\"#F(!\"\"\"\"%F(\"\"!" }
+{TEXT -1 3 ".  " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 43 "eqn1 := x^3-34*x^2+4=0;\nH := solve(eqn1,x);" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 83 "As you can see, reading these exact solutions is quite \+
+a challenge!  Note that the " }{TEXT 289 1 "I" }{TEXT -1 13 " stands f
+or  " }{XPPEDIT 18 0 "sqrt(-1)" "6#-%%sqrtG6#,$\"\"\"!\"\"" }{TEXT -1 
+99 ". When a solution is this complicated it is more useful to look at
+ the approximate solutions using " }{TEXT 291 5 "evalf" }{TEXT -1 10 "
+ command. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 16 "sol := evalf(H);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 76 "The small ima
+ginary part attached to each real root can be removed with the " }
+{TEXT 376 7 "fnormal" }{TEXT -1 9 " command." }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "fnormal([sol]);" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 29 "Finally, the imaginary unit, " }{XPPEDIT 18 0 "i = sqrt
+(-1);" "6#/%\"iG-%%sqrtG6#,$\"\"\"!\"\"" }{TEXT -1 22 ", can be remove
+d with " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 25 "simplify(fnormal([sol]));" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 26 "A good alte
+rnative to the " }{TEXT 292 5 "solve" }{TEXT -1 41 " command in a situ
+ation like this is the " }{TEXT 293 6 "fsolve" }{TEXT -1 54 " command \+
+which will be discussed in the next section. " }}{PARA 0 "" 0 "" 
+{TEXT -1 4 "The " }{TEXT 294 5 "solve" }{TEXT -1 58 " command can also
+ be used to find the exact solutions for " }{TEXT 290 14 "non-polynomi
+al" }{TEXT -1 243 " equations. Some simple examples are listed below. \+
+However if the equations are at all complicated, for example combining
+ exponential, polynomial and trigonometric expressions, then an exact \+
+solution will typically not be available. Again the " }{TEXT 295 6 "fs
+olve" }{TEXT -1 28 " command is an alternative. " }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 50 "For this equation, the ap
+propriate syntax would be" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "fsolve(eqn1,x);" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 4 "The \+
+" }{TEXT 380 6 "fsolve" }{TEXT -1 65 " command will be discussed in gr
+eater detail in the next section." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "
+" {TEXT -1 9 "Example 5" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 23 "Solve t
+he equation:    " }{XPPEDIT 18 0 "5*exp(x/4)=43 " "6#/*&\"\"&\"\"\"-%$
+expG6#*&%\"xGF&\"\"%!\"\"F&\"#V" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "solve(5*exp(x/4)=43,x);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "
+" {TEXT -1 9 "Example 6" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 33 "Sometim
+es Maple does not display " }{TEXT 296 3 "all" }{TEXT -1 112 " of the \+
+solutions. How would you use the result below to write down the entire
+ set of solutions to the equation?" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "solve(sin(x)=1/2,x);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 4 "The " }{TEXT 377 11 "environment" }{TEXT -1 1 " " }{TEXT 
+378 8 "variable" }{TEXT -1 351 " _EnvAllSolutions, if set to true, wil
+l force all inverse transcendental functions to return the entire set \+
+of solutions. This usually requires additional, system created, variab
+les, which take integer values. Normally such variables are named with
+ prefix _Z for integer values, _NN for non-negative integer values and
+ _B for binary values (0 and 1).\n" }}{PARA 0 "" 0 "" {TEXT -1 12 "For
+ example:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 46 "_EnvAllSolutions := true:\nsolve(sin(x)=1/2,x);" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 14 "The output is " }{XPPEDIT 18 0 "Pi/6+2*Pi/3*_B1+2*Pi*_Z1;
+" "6#,(*&%#PiG\"\"\"\"\"'!\"\"F&**\"\"#F&F%F&\"\"$F(%$_B1GF&F&*(F*F&F%
+F&%$_Z1GF&F&" }{TEXT -1 18 ". This shows that " }{XPPEDIT 18 0 "sin(x)
+;" "6#-%$sinG6#%\"xG" }{TEXT -1 3 " = " }{XPPEDIT 18 0 "1/2;" "6#*&\"
+\"\"F$\"\"#!\"\"" }{TEXT -1 10 " whenever " }{TEXT 361 1 "x" }{TEXT 
+-1 3 " = " }{XPPEDIT 18 0 "Pi/6;" "6#*&%#PiG\"\"\"\"\"'!\"\"" }{TEXT 
+-1 3 " + " }{XPPEDIT 18 0 "2*Pi*n;" "6#*(\"\"#\"\"\"%#PiGF%%\"nGF%" }
+{TEXT -1 4 " or " }{XPPEDIT 18 0 "5*Pi/6;" "6#*(\"\"&\"\"\"%#PiGF%\"\"
+'!\"\"" }{TEXT -1 3 " + " }{XPPEDIT 18 0 "2*Pi*n;" "6#*(\"\"#\"\"\"%#P
+iGF%%\"nGF%" }{TEXT -1 7 " where " }{XPPEDIT 18 0 "n;" "6#%\"nG" }
+{TEXT -1 15 " is an integer." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 4 "" 0 "
+" {TEXT 257 12 "Exercise 4.1" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 22 "So
+lve the equation    " }{XPPEDIT 18 0 "x^3-11*x^2+7*x+147 = 0." "6#/,**
+$%\"xG\"\"$\"\"\"*&\"#6F(*$F&\"\"#F(!\"\"*&\"\"(F(F&F(F(\"$Z\"F(-%&Flo
+atG6$\"\"!F4" }{TEXT -1 114 "  Why does Maple produce only two distinc
+t solutions for this cubic equation?  Why is one of them written twice
+?  " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 51 "(H
+INT:  Factor the left hand side of the equation.)" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 21 "Student Workspac
+e 4.1" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 20 "" 0 "" {TEXT 265 10 "
+Answer 4.1" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "solve(x^3-11*x
+^2+7*x+147=0,x);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "factor(x^3-11*x^2+7*x+147);
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 8 "Because " }{XPPEDIT 18 0 "x-7;" "6#,&%\"xG\"\"\"\"\"(
+!\"\"" }{TEXT -1 6 " is a " }{TEXT 362 8 "repeated" }{TEXT -1 1 " " }
+{TEXT 363 6 "factor" }{TEXT -1 95 ", the cubic equation has only two d
+istinct roots, namely,  -3 and 7.  We say that root 7 has a " }{TEXT 
+297 17 "multiplicity of 2" }{TEXT -1 26 ",  meaning that the factor" }
+{XPPEDIT 18 0 "``(x-7);" "6#-%!G6#,&%\"xG\"\"\"\"\"(!\"\"" }{TEXT -1 
+9 " appears " }{TEXT 379 5 "twice" }{TEXT -1 28 " in the factored poly
+nomial." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}}}}{SECT 1 {PARA 4 "" 0 "fsolve(  )" {TEXT -1 35 
+"Finding Approximate Solutions: The " }{TEXT 272 6 "fsolve" }{TEXT -1 
+8 " command" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 8 "Maple's " }{TEXT 
+303 6 "fsolve" }{TEXT -1 73 " command can be used to find approximate \+
+solutions for any equation. For " }{TEXT 300 10 "polynomial" }{TEXT 
+-1 11 " equations " }{TEXT 304 6 "fsolve" }{TEXT -1 12 " produces a " 
+}{TEXT 301 13 "complete list" }{TEXT -1 79 " of all of the real soluti
+ons in one step (see Example 1). For other equations " }{TEXT 305 6 "f
+solve" }{TEXT -1 20 " can be used to get " }{TEXT 302 22 "one solution
+ at a time" }{TEXT -1 25 " (see Examples 2 and 3). " }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 9 "Example 1" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 8 "Maple's " }{TEXT 299 6 "fsolve" }
+{TEXT -1 92 " command will compute a numerical approximation for each \+
+solution of a polynomial equation. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+}{PARA 0 "" 0 "" {TEXT -1 49 "To obtain approximate solutions for the \+
+equation " }{XPPEDIT 18 0 "x^4-x^3-17*x^2-6*x+2=0" "6#/,,*$%\"xG\"\"%
+\"\"\"*$F&\"\"$!\"\"*&\"#<F(*$F&\"\"#F(F+*&\"\"'F(F&F(F+F/F(\"\"!" }
+{TEXT -1 14 ", that is, for" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "eqn := x^4-x^3-17*x^2-6*x+2=
+0;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 4 "use " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "fsolve(eqn,x);" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 114 "The
+ four solutions listed above provide us with a complete list of the so
+lutions to the given polynomial equation." }}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 
+5 "" 0 "" {TEXT -1 9 "Example 2" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 18 
+"For the equation  " }{XPPEDIT 18 0 "x^3+1-exp(x)=0" "6#/,(*$%\"xG\"\"
+$\"\"\"F(F(-%$expG6#F&!\"\"\"\"!" }{TEXT -1 14 ", that is, for" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 22 "eqn := x^3+1-exp(x)=0;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 4 "the " }{TEXT 382 6 "fsolv
+e" }{TEXT 381 37 " command will yield just the solution" }{TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 14 "fsolve(eqn,x);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 14 "Maple returns " }
+{TEXT 298 3 "one" }{TEXT -1 206 " real solution. This time Maple has n
+ot given us the whole story.  Are there any other solutions?  How do w
+e find them? A systematic procedure for finding the remaining solution
+s is presented in Example 3. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "
+" {TEXT -1 9 "Example 3" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 49 "Find th
+e other real solutions for the equation   " }{XPPEDIT 18 0 "x^3+1-exp(
+x)=0" "6#/,(*$%\"xG\"\"$\"\"\"F(F(-%$expG6#F&!\"\"\"\"!" }{TEXT -1 2 "
+ ." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 307 103 "T
+he first step in finding the other solutions is to plot a graph of the
+ left-hand side of the equation." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT 306 11 "Key Concept" }{TEXT -1 18 ": Recall that
+ the " }{TEXT 308 13 "x-intercepts " }{TEXT -1 4 "of  " }{XPPEDIT 18 
+0 "y=x^3+1-exp(x)" "6#/%\"yG,(*$%\"xG\"\"$\"\"\"F)F)-%$expG6#F'!\"\"" 
+}{TEXT -1 54 " correspond exactly to the solutions of the equation  " 
+}{XPPEDIT 18 0 "x^3+1-exp(x)=0" "6#/,(*$%\"xG\"\"$\"\"\"F(F(-%$expG6#F
+&!\"\"\"\"!" }{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "plot(x^3+1-exp(x),x=-3..5,y=
+-5..15);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 16 "The graph shows " }{TEXT 309 4 "four" }
+{TEXT -1 1 " " }{TEXT 383 1 "x" }{TEXT -1 88 "-intercepts. One of thes
+e corresponds to the solution we found in Example 2. Which one? " }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 4 "The " }
+{XPPEDIT 18 0 "x = 0;" "6#/%\"xG\"\"!" }{TEXT -1 63 " solution is also
+ easy to spot. How do we find the other three?" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 18 "We can extend the " }
+{TEXT 311 6 "fsolve" }{TEXT -1 139 " command to look for a solution in
+ a particular interval. For example to find the negative solution we a
+sk Maple to search on the interval " }{XPPEDIT 18 0 "[ -1 , -0.2]" "6#
+7$,$\"\"\"!\"\",$-%&FloatG6$\"\"#F&F&" }{TEXT -1 104 " since we can se
+e from the graph that there definitely is one (and only one) solution \+
+on that interval. " }}{PARA 0 "" 0 "" {TEXT -1 1 " " }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 22 "fsolve(eqn,x=-1..-.2);" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 39 "T
+o find the other two solutions we use " }{TEXT 312 6 "fsolve" }{TEXT 
+-1 77 " again, this time with search interval [1, 2] and  then with in
+terval [4, 5]." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 39 "fsolve(eqn,x=1..2);\nfsolve(eqn,x=4..5);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 97 "What happens if you ask Maple to search for a solution on
+ an interval where no solution exists ? " }}{PARA 0 "" 0 "" {TEXT -1 
+121 "Let's try it out. From the graph it is clear that there are no x-
+intercepts (and therefore no solutions) between 2 and 4." }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "fsol
+ve(eqn,x=2..4);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 121 "Notice that Maple simply returns \+
+the original input line unchanged when it cannot find a solution on th
+e given interval. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 229 "Are there any other solutions?  For example, are there a
+ny solutions larger than 5 ?  We can check this out by expanding the i
+nterval over which the graph is plotted. On the next line we expand th
+e interval to [-3, 50]. No other " }{TEXT 384 1 "x" }{TEXT -1 190 "-in
+tercepts appear. The graph confirms what we should expect by looking a
+t the terms of the expression, namely the exponential term dominates a
+nd causes the graph to go down in the long run." }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 38 "plot(x^3+1-
+exp(x),x=-3..50,y=-10..15);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 29 "Alternatively we can use t
+he " }{TEXT 314 6 "fsolve" }{TEXT -1 50 " command, now searching over \+
+this larger interval." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "fsolve(eqn,x=5..50);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 45 "As expected no solutions are found by Maple. " }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 52 "In a similar way, we ca
+n check for solutions to the " }{TEXT 310 4 "left" }{TEXT -1 60 ". Her
+e we search for solutions over the interval [-50, -1] ." }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "fsolve
+(eqn,x=-50..-1);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 19 "None there either !" }}{PARA 0 "" 
+0 "" {TEXT -1 75 "We now have a complete list of the four solutions of
+ our original equation " }{XPPEDIT 18 0 "x^3+1-exp(x)=0" "6#/,(*$%\"xG
+\"\"$\"\"\"F(F(-%$expG6#F&!\"\"\"\"!" }{TEXT -1 62 " . They are:   -.8
+251554597 , 0 , 1.545007279 and  4.567036837" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 
+{PARA 5 "" 0 "" {TEXT -1 9 "Example 4" }}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 4 "Use " }{TEXT 315 6 "fsolve" }{TEXT -1 52 " to find the approxima
+te solutions of the equation  " }{XPPEDIT 18 0 "x^2/20-10*x=15*cos(x+1
+5)" "6#/,&*&%\"xG\"\"#\"#?!\"\"\"\"\"*&\"#5F*F&F*F)*&\"#:F*-%$cosG6#,&
+F&F*F.F*F*" }{TEXT -1 26 ", that is, of the equation" }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "eqn := x^
+2/20-10*x-15*cos(x+15)=0;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 250 "Just as in the last example
+ we will use a graph to help us determine the number and approximate l
+ocation of the solutions. Our task is simplified if we start by conver
+ting the given equation to an equivalent one that has zero on the righ
+t-hand side. " }}{PARA 0 "" 0 "" {TEXT -1 42 "So we will solve the equ
+ivalent equation  " }{XPPEDIT 18 0 "x^2/20-10*x-15*cos(x+15)=0" "6#/,(
+*&%\"xG\"\"#\"#?!\"\"\"\"\"*&\"#5F*F&F*F)*&\"#:F*-%$cosG6#,&F&F*F.F*F*
+F)\"\"!" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 
+20 "If we now graph the " }{TEXT 313 14 "left-hand side" }{TEXT -1 68 
+" of this equation, we once again will find solutions at each of the \+
+" }{TEXT 385 1 "x" }{TEXT -1 13 "-intercepts. " }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "plot(lhs(eq
+n),x=-10..10);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 75 "From the graph it appears that the
+re is a solution on the interval [1, 2]. " }}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }}{PARA 0 "" 0 "" {TEXT -1 62 "We now direct Maple to search for \+
+a solution on this interval." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "fsolve(eqn,x=1..2);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 161 "Have we found all of the solutions to this equation?  In
+ fact there is another solution! To find it, expand the interval over \+
+which the graph is drawn, then use " }{TEXT 352 6 "fsolve" }{TEXT -1 
+107 " to find a numerical approximation for this second solution.  (Th
+is is left as an activity for the reader.)" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 
+{PARA 4 "" 0 "" {TEXT 267 12 "Exercise 4.2" }}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 39 "Find all the solutions to the equation " }{XPPEDIT 18 0 "
+x^5-4*x^3+3*x^2+7*x-1=0" "6#/,,*$%\"xG\"\"&\"\"\"*&\"\"%F(*$F&\"\"$F(!
+\"\"*&F,F(*$F&\"\"#F(F(*&\"\"(F(F&F(F(F(F-\"\"!" }{TEXT -1 41 ". Begin
+ by looking at a relevant graph.  " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 21 "Student Workspace 4.2" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 10 "Answer 4.
+2" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 56 "We begin by graphing the left
+-hand side of the equation." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "eqn := x^5-4*x^3+3*x^2+7*x-1
+=0;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 31 "plot(lhs(eqn),x=-5..5,y=-5..5);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 101 "This picture indicates that there are solutions near -2 , -1.5
+, and 0.  We next try the unrestricted " }{TEXT 342 6 "fsolve" }{TEXT 
+-1 46 " command to see which solution(s) Maple finds." }}{PARA 0 "" 0 
+"" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "fsolve(e
+qn,x);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 40 "Since this is a polynomial equation the " }
+{TEXT 364 6 "fsolve" }{TEXT -1 56 " command gives us a complete list o
+f the real solutions." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}}{SECT 1 {PARA 4 "" 0 "" 
+{TEXT 266 12 "Exercise 4.3" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 39 "Find
+ all the solutions to the equation " }{XPPEDIT 18 0 "x^2 - 2 = ln(x+5)
+" "6#/,&*$%\"xG\"\"#\"\"\"F'!\"\"-%#lnG6#,&F&F(\"\"&F(" }{TEXT -1 20 "
+.  Use the graph of " }{TEXT 340 3 "one" }{TEXT -1 107 " expression to
+ locate the solutions.  Check each solution by substituting it back in
+ the original equation." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{SECT 1 
+{PARA 5 "" 0 "" {TEXT -1 21 "Student Workspace 4.3" }}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 10 "Answ
+er 4.3" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 75 "First we put the equatio
+n in \"standard form\" , i.e. with zero on one side. " }}{PARA 0 "" 0 
+"" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "eqn := x
+^2-2-ln(x+5)=0;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 46 "Now we can graph the right-hand si
+de equation." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 25 "plot(lhs(eqn),x=-10..10);" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 73 "There \+
+appear to be two solutions.  One near -2 and the other near 2. Use " }
+{TEXT 341 6 "fsolve" }{TEXT -1 83 " with a restricted domain to find t
+he two solutions you've located more precisely. " }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "soln1 := fs
+olve(eqn,x=-5..0);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "soln2 := fsolve(eqn,x=1..3);
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 53 "Check by subsituting back into the original equation
+." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 51 "evalf(eval(eqn,x=soln1));\nevalf(eval(eqn,x=soln2));
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 178 "Notice that the original equation is only \"approxi
+mately\" satisfied by each of our solutions.  The slight discrepancy i
+s a result of round-off error in the approximate solutions." }}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 45 "Check that ther
+e are no additional solutions." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}}{SECT 1 {PARA 257 "" 
+0 "" {TEXT 268 12 "Exercise 4.4" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 15 
+"The graphs of  " }{XPPEDIT 18 0 "y=10-x^2" "6#/%\"yG,&\"#5\"\"\"*$%\"
+xG\"\"#!\"\"" }{TEXT -1 7 "  and  " }{XPPEDIT 18 0 "y=4*sin(2*x)+5" "6
+#/%\"yG,&*&\"\"%\"\"\"-%$sinG6#*&\"\"#F(%\"xGF(F(F(\"\"&F(" }{TEXT -1 
+42 " intersect twice on the interval [-5, 5]. " }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 90 "a) Graph the two equation
+s together and estimate the intersection points using the mouse. " }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 94 "b) Write \+
+an equation that can be solved to find the x-coordinates of the inters
+ection points. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 7 "c) Use " }{TEXT 344 6 "fsolve" }{TEXT -1 24 " to solve thi
+s equation." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 89 "d) Use the results from part c) to estimate the y-coordinates o
+f the intersection points." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 
+"" 0 "" {TEXT -1 78 "e) It appears that the curves may intersect at a \+
+third point near (1, 9). Use " }{TEXT 343 6 "fsolve" }{TEXT -1 94 " an
+d/or a relevant graph to demonstrate that there is no intersection poi
+nt at that location. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{SECT 1 
+{PARA 5 "" 0 "" {TEXT -1 21 "Student Workspace 4.4" }}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 10 "Answ
+er 4.4" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 34 "First enter in the two e
+quations. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 33 "y1 := 10-x^2;\ny2 := 4*sin(2*x)+5;" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 37 "Here is a plot of the two equations. " }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "plot([y1,y2],x=-5
+..5);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 79 "Intersection points are located approximately a
+t: (-1.8, 6.6) and ( 2.75, 2) . " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 28 "b) The equation to solve is " }{XPPEDIT 
+18 0 "y[1] = y[2];" "6#/&%\"yG6#\"\"\"&F%6#\"\"#" }{TEXT -1 1 "." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 13 "eqn := y1=y2;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 39 "c) We now find the two solutions u
+sing " }{TEXT 345 7 "fsolve." }{TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 66 "x_soln1 := fsolve
+(y1=y2,x=-4..0);\nx_soln2 := fsolve(y1=y2,x=0..4);" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 18 "d) \+
+We can use the " }{TEXT 346 4 "eval" }{TEXT -1 35 " command to find th
+e corresponding " }{TEXT 386 1 "y" }{TEXT -1 13 "-coordinates." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 61 "y_soln1 := eval(y1,x=x_soln1);\ny_soln2 := eval(y1,x=x_soln2);" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 69 "So the points of intersection are : (-1.800,6.763)  and
+ (2.773,2.311)" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 51 "e) Here is a closer look at what is happening near " }
+{XPPEDIT 18 0 "x = 1;" "6#/%\"xG\"\"\"" }{TEXT -1 1 "." }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "plot([
+y1,y2],x=.5..1.5);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 25 "Alternatively we can use " }{TEXT 
+347 6 "fsolve" }{TEXT -1 43 " to confirm that there is no solution nea
+r " }{XPPEDIT 18 0 "x = 1;" "6#/%\"xG\"\"\"" }{TEXT -1 1 "." }}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "f
+solve(y1=y2,x=.5..1.5);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 25 "Solving Literal Equations
+" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 70 "Often Maple can solve literal equations for any one of the vari
+ables. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 
+60 "Suppose we want to solve for the variable g in the equation " }
+{XPPEDIT 18 0 "4-v=2*T-k*g" "6#/,&\"\"%\"\"\"%\"vG!\"\",&*&\"\"#F&%\"T
+GF&F&*&%\"kGF&%\"gGF&F(" }{TEXT -1 3 ".  " }}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }}{PARA 0 "" 0 "" {TEXT -1 4 "The " }{TEXT 351 5 "solve" }{TEXT 
+-1 27 " command works well here.  " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "solve(4-v=2*T-k*g,g);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 57 "Here is a little nicer way of displaying the same result:
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 25 "g = solve(4-v=2*T-k*g,g);" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{SECT 1 {PARA 4 "" 0 "" {TEXT 259 12 "Exercise \+
+4.5" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 61 "Edit the last command to so
+lve for each of the other letters " }{TEXT 316 14 "T, k and v.   " }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{SECT 1 {PARA 20 "" 0 "" {TEXT 260 
+21 "Student Workspace 4.5" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 20 "
+" 0 "" {TEXT 261 10 "Answer 4.5" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 25 "T = solve(4-v=2*T-k*g,T);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "k = sol
+ve(4-v=2*T-k*g,k);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "v = solve(4-v=2*T-k*g,v);" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}}{SECT 1 {PARA 4 "" 
+0 "" {TEXT 262 12 "Exercise 4.6" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 19 
+"Solve the equation " }{XPPEDIT 18 0 "x^2+y^2=9" "6#/,&*$%\"xG\"\"#\"
+\"\"*$%\"yGF'F(\"\"*" }{TEXT -1 5 " for " }{TEXT 317 1 "y" }{TEXT -1 
+104 ".  Assign the set of solutions to a variable named S. How are the
+ two solutions S[1] and S[2] related ? " }}{PARA 0 "" 0 "" {TEXT -1 0 
+"" }}}{SECT 1 {PARA 20 "" 0 "" {TEXT 263 21 "Student Workspace 4.6" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 20 "" 0 "" {TEXT 264 10 "Answer \+
+4.6" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "S := solve(x^2+y^2=25
+,y);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 5 "S[1];" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "S[2];" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 51 "The solution S[1] is the negative of solution S[2]." }}{PARA 0 
+"" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}
+}}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 47 "Solving a Linear System of Eq
+uations Using the " }{TEXT 273 5 "solve" }{TEXT -1 9 " Command " }}
+{EXCHG {PARA 0 "" 0 "" {TEXT 318 52 "Please execute the next two lines
+ before proceeding:" }{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 12 "with(plots):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 4 "The " }{TEXT 
+323 5 "solve" }{TEXT -1 47 " command can also be used to solve a syste
+m of " }{TEXT 338 1 "m" }{TEXT -1 21 " linear equations in " }{TEXT 
+320 1 "n" }{TEXT -1 28 " variables.  We call these  " }{TEXT 321 1 "m
+" }{TEXT 339 4 " by " }{TEXT 319 1 "n" }{TEXT 322 15 " linear systems
+" }{TEXT -1 11 " for short." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{SECT 
+1 {PARA 5 "" 0 "" {TEXT -1 9 "Example 1" }}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 44 "The 2 by 2 linear system whose equations are" }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "eqn1
+ := 3*x+2*y=3;\neqn2 := x-y=-4;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 12 "has solution" }}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "q
+ := solve(\{eqn1,eqn2\});" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 15 "We can use the " }{TEXT 365 
+4 "eval" }{TEXT -1 32 " command to directly select the " }{XPPEDIT 18 
+0 "x;" "6#%\"xG" }{TEXT -1 6 "- and " }{XPPEDIT 18 0 "y;" "6#%\"yG" }
+{TEXT -1 36 "-coordinates from the return of the " }{TEXT 350 5 "solve
+" }{TEXT -1 9 " command." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "
+" 0 "" {TEXT -1 21 "For example, for the " }{TEXT 366 1 "x" }{TEXT -1 
+19 "-coordinate, type: " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "eval(x, q);" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 12 "and fo
+r the " }{XPPEDIT 18 0 "y;" "6#%\"yG" }{TEXT -1 17 "-coordinate, type
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 11 "eval(y, q);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 73 "In the first of these us
+ages, we are asking Maple to evaluate the symbol " }{XPPEDIT 18 0 "x;
+" "6#%\"xG" }{TEXT -1 42 " using the information it finds in the set" 
+}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 2 "q;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 36 "Similarly, by evaluating the symbol " }
+{XPPEDIT 18 0 "y;" "6#%\"yG" }{TEXT -1 48 " with the information in th
+is set, the value of " }{XPPEDIT 18 0 "y;" "6#%\"yG" }{TEXT -1 13 " is
+ selected." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 63 "The solution can be expressed as a point in Maple via the usage
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 22 "soln := eval([x,y],q);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 27 "Again, note t
+he use of the " }{TEXT 368 4 "eval" }{TEXT -1 24 " construct.  The sym
+bol " }{XPPEDIT 18 0 "[x, y];" "6#7$%\"xG%\"yG" }{TEXT -1 46 " is eval
+uated with the information in the set " }{TEXT 369 1 "q" }{TEXT -1 27 
+", and results in the point " }{XPPEDIT 18 0 "[-1, 3];" "6#7$,$\"\"\"!
+\"\"\"\"$" }{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "
+" 0 "" {TEXT -1 124 "A graph of the two lines represented by the two e
+quations can be generated if first, each equation is solved explicitly
+ for " }{XPPEDIT 18 0 "y;" "6#%\"yG" }{TEXT -1 1 "." }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 48 "y1 := sol
+ve(3*x+2*y=3,y);\ny2 := solve(x-y=-4,y);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 217 "Now we const
+ruct a picture made up of two parts: \"part1\" contains the graphs the
+ two equations and \"part2\" plots the solution point that we found. T
+his point should be the intersection point of the two lines. Is it ? \+
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 139 "part1 := plot([y1,y2],x=-5..5, color=[black,red]):  \+
+ \npart2 := plot([[-1,3]],style=point,color=blue,symbol=circle):\ndisp
+lay([part1,part2]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 120 "Alternatively, since the equation
+s of the lines were given implicitly, the desired graph could be obtai
+ned with Maple's " }{TEXT 367 12 "implicitplot" }{TEXT -1 40 " command
+.  The following figure results." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 147 "p1 := implicitplot([eqn1,eq
+n2], x=-5..5, y=-6..8, color=[black,red]):\np2 := plot([soln], style=p
+oint, symbol=circle, color=blue):\ndisplay([p1,p2]);" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 9 "
+Example 2" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 40 "Here is an example of
+ the solution of a " }{TEXT 324 6 "3 by 3" }{TEXT -1 23 " system with \+
+variables " }{TEXT 370 1 "x" }{TEXT -1 2 ", " }{TEXT 371 1 "y" }{TEXT 
+-1 6 ", and " }{TEXT 372 1 "z" }{TEXT -1 1 "." }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 27 "Solve the 3 by 3 system: \+
+  " }{XPPEDIT 18 0 "\{x+y+z=1, 3*x+y=3, x-2*y-z=0\}" "6#<%/,(%\"xG\"\"
+\"%\"yGF'%\"zGF'F'/,&*&\"\"$F'F&F'F'F(F'F-/,(F&F'*&\"\"#F'F(F'!\"\"F)F
+2\"\"!" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 42 "q := solve(\{x+y+z=1, 3*x+y=3, x-2*y-z=0\});" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 55 "The solution can be expressed as a point via the syntax" 
+}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 16 "eval([x,y,z],q);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT 258 12 "Exercise 4.7" }}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 32 "Find the solution to the system:" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "4*x+3*y
+=12 and 5*x-7*y=35" "6#3/,&*&\"\"%\"\"\"%\"xGF(F(*&\"\"$F(%\"yGF(F(\"#
+7/,&*&\"\"&F(F)F(F(*&\"\"(F(F,F(!\"\"\"#N" }{TEXT -1 0 "" }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 69 "Check by evaluatin
+g both equations in the system at the solution pair" }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 21 "Student Worksp
+ace 4.7" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}}{SECT 1 {PARA 5 "" 0 "" {TEXT -1 10 "Answer 4.7" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "eqns := \{4*x+3*y=12, 5*x-7*y=35\};
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 27 "Solve the system using the " }{TEXT 349 5 "solve" }
+{TEXT -1 9 " command." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "ans := solve(eqns);" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 29 "And to check if the solution " }{XPPEDIT 18 0 "x = 189/43,y = -
+80/43;" "6$/%\"xG*&\"$*=\"\"\"\"#V!\"\"/%\"yG,$*&\"#!)F'F(F)F)" }
+{TEXT -1 32 " is a correct solution, use the " }{TEXT 348 4 "eval" }
+{TEXT -1 10 " command. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "eval(eqns,ans);" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 62 
+"Linear Systems with an Infinite Number of Solutions (Optional)" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 23 "When a system has more " }{TEXT 
+328 9 "variables" }{TEXT -1 6 " than " }{TEXT 329 9 "equations" }
+{TEXT -1 59 " we often get not one, but an infinite number of solution
+s." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 19 "Her
+e is an example." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{SECT 1 {PARA 5 "
+" 0 "" {TEXT -1 9 "Example 1" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 19 "So
+lve the system : " }{XPPEDIT 18 0 "\{ x+y+z=1 , 3*x+y=3 \}" "6#<$/,(%
+\"xG\"\"\"%\"yGF'%\"zGF'F'/,&*&\"\"$F'F&F'F'F(F'F-" }{TEXT -1 1 "." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 35 "solns := solve(\{x+y+z=1, 3*x+y=3\});" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 180 "Notice th
+is time we do not get a single set of numerical values for x, y and z.
+ Instead Maple tells us how the values of x, y and z must be related t
+o construct a typical solution." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 29 "In particular the expression " }{XPPEDIT 
+18 0 "x=x" "6#/%\"xGF$" }{TEXT 330 1 " " }{TEXT -1 35 "in the output a
+bove indicates that " }{XPPEDIT 18 0 "x" "6#%\"xG" }{TEXT -1 8 " can b
+e " }{TEXT 331 3 "any" }{TEXT -1 76 " number. We refer to it as the \"
+free\" variable in the solution. To find any " }{TEXT 332 10 "particul
+ar" }{TEXT -1 65 " solution (among the infinte number possible) pick a
+ny value for " }{TEXT 387 1 "x" }{TEXT -1 81 " and use this to calcula
+te the corresponding values for y and z. For example let " }{XPPEDIT 
+18 0 "x = 4;" "6#/%\"xG\"\"%" }{TEXT -1 2 ". " }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "eval(solns,
+x=4);  " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 20 "So one solution is: " }{XPPEDIT 18 0 "x =
+ 4,y = -9,z = 6;" "6%/%\"xG\"\"%/%\"yG,$\"\"*!\"\"/%\"zG\"\"'" }{TEXT 
+-1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 
+103 "Take a minute and check by hand that these three numbers do in fa
+ct satisfy our original equations :   " }{XPPEDIT 18 0 " x+y+z=1" "6#/
+,(%\"xG\"\"\"%\"yGF&%\"zGF&F&" }{TEXT -1 6 " and  " }{XPPEDIT 18 0 "3*
+x+y=3" "6#/,&*&\"\"$\"\"\"%\"xGF'F'%\"yGF'F&" }{TEXT -1 2 ". " }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 62 "Now let's
+ look at the solution that is generated when we take " }{XPPEDIT 18 0 
+"x = 2;" "6#/%\"xG\"\"#" }{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 0 
+"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "eval(solns,x=2);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 44 "So two of the infinitely many solutions are:" }{XPPEDIT 
+18 0 "``(x,y,z) = ``(4,-9,6);" "6#/-%!G6%%\"xG%\"yG%\"zG-F%6%\"\"%,$\"
+\"*!\"\"\"\"'" }{TEXT -1 4 " and" }{XPPEDIT 18 0 "``(2,-3,2);" "6#-%!G
+6%\"\"#,$\"\"$!\"\"F&" }{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 4 "
+" 0 "" {TEXT 325 12 "Exercise 4.8" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+19 "Solve the system : " }{XPPEDIT 18 0 "\{ x+2*y+z=2 , 3*x+y=1 \}" "6
+#<$/,(%\"xG\"\"\"*&\"\"#F'%\"yGF'F'%\"zGF'F)/,&*&\"\"$F'F&F'F'F*F'F'" 
+}{TEXT -1 46 " and find at least three particular solutions." }}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}}{SECT 1 {PARA 20 "" 0 "" {TEXT 326 21 "Stud
+ent Workspace 4.8" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 20 "" 0 "
+" {TEXT 327 10 "Answer 4.8" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+32 "eqns := \{ x+2*y+z=2 , 3*x+y=1 \};" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "soln :=
+ solve(eqns);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 27 "Here are the solutions for " }
+{TEXT 373 1 "x" }{TEXT -1 19 " = 1, 2, 3, and 4 :" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "eval(soln,x
+=1);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 15 "eval(soln,x=2);" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "eval(
+soln,x=3);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "eval(soln,x=4);" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}}}}}}{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 
+1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }
