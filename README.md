@@ -13,4 +13,5 @@ I've created a user interface using MATLAB to perform multiple regression, resta
 - Jacobi
 - Bisection
 - Newton Raphson
-- 
+- Gauss Seidel
+- False Position
